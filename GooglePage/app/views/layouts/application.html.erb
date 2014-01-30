@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>GooglePage</title>
+  <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+  <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+
+<div class="navbar">
+	<ul>
+		<li><a href="https://plus.google.com/?gpsrc=opgy0&tab=wX">+You</a></li>
+		<li><a href="https://mail.google.com/mail/?tab=wm">Gmail</a></li>
+		<li><a href="https://www.google.com/imghp?hl=en&tab=wi&ei=NrnpUvKhFIrTsATsu4HwAg&ved=0CAQQqi4oAg">Images</a></li>
+		<li><a href="https://accounts.google.com/ServiceLogin?hl=en&continue=https://www.google.com/">Sign in</a></li>
+	</ul>
+</div>
+
+
+<%= yield %>
+
+</body>
+</html>
