@@ -40,3 +40,9 @@ Managers would be able to use a login screen to securely update inventory and ke
 3. PacMan or similar video game in Ruby. It would be a cool online Ruby game based off of retro classics like PacMan or Space
 Invaders. Users would be able to go to the website and play the game. Could also create the game blockhead instead with multiplayer.
 
+This project took a bit longer than I thought it would. It took me around 5-6 hours. The HTML was the easy part. Getting all the 
+Google CSS was the annoying part. I had to go back and forth and look at different divs and such. I also had problems with pictures
+which I realized I needed to look in /assets/ instead of /images/. I also had problems with box-shadow, then I realized I needed
+to use webkit-box-shadow. Positioning elements was a bit tricky at first, but I got the hang of it. The input box with the 
+microphone was the trickiest problem. I used Google's implementation of a table inside the form to do that. 
+
