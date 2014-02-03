@@ -29,3 +29,14 @@ Please feel free to use a different markup language if you do not plan to run
 
 Link to heroku: http://tranquil-dawn-7339.herokuapp.com/
 
+For my project, I have 3 ideas.
+
+1. A flashcard application website to create custom flashcards for studying tools. 
+Users would go and make flashcards out of vocabulary words or geographical applications. They would be able to share
+created flashcards with friends over Twitter and Facebook. They could also add images to the flashcards.
+2. Storefront for Cafe in Harnwell College House. The cafe would be able to keep track of inventory and prices online.
+Users in harnwell would be able to check what the cafe has in stock before they go down several floors to find disappointment.
+Managers would be able to use a login screen to securely update inventory and keep track of employees.
+3. PacMan or similar video game in Ruby. It would be a cool online Ruby game based off of retro classics like PacMan or Space
+Invaders. Users would be able to go to the website and play the game. Could also create the game blockhead instead with multiplayer.
+
