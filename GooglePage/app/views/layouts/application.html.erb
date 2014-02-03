@@ -8,14 +8,17 @@
 </head>
 <body>
 
-<div class="navbar">
-	<ul>
-		<li><a href="https://plus.google.com/?gpsrc=opgy0&tab=wX">+You</a></li>
-		<li><a href="https://mail.google.com/mail/?tab=wm">Gmail</a></li>
-		<li><a href="https://www.google.com/imghp?hl=en&tab=wi&ei=NrnpUvKhFIrTsATsu4HwAg&ved=0CAQQqi4oAg">Images</a></li>
-		<li><a href="https://accounts.google.com/ServiceLogin?hl=en&continue=https://www.google.com/">Sign in</a></li>
-	</ul>
-</div>
+	<div class="navbar">
+		<div class="list">
+			<ul>
+				<li class="leftli"><a href="https://plus.google.com/?gpsrc=opgy0&tab=wX">+You</a></li>
+				<li class="leftli"><a href="https://mail.google.com/mail/?tab=wm">Gmail</a></li>
+				<li class="leftli"><a href="https://www.google.com/imghp?hl=en&tab=wi&ei=NrnpUvKhFIrTsATsu4HwAg&ved=0CAQQqi4oAg">Images</a></li>
+				<li><img src="/assets/box_matrix.png" id="box"></li>
+				<li class="rightli"><a href="https://accounts.google.com/ServiceLogin?hl=en&continue=https://www.google.com/"><span id="blue">Sign in</span></a></li>
+			</ul>
+		</div>
+	</div>
 
 
 <%= yield %>
