@@ -27,7 +27,7 @@ Things you may want to cover:
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
 
-Link to heroku: http://tranquil-dawn-7339.herokuapp.com/
+Link to heroku: http://googlepage.herokuapp.com/
 
 For my project, I have 3 ideas.
 
